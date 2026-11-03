@@ -15,7 +15,7 @@ class _CountState extends State<Count> {
    height: double.infinity,
    child: Row(
      children: [
-       Image.asset('assets/images/b0568b8b587e270f89834eef1715683b.jpg',width: 100,),
+       Image.asset('assets/images/image 6.png',width: 100,),
        SizedBox(width: 20,),
        Text("$num"),
        IconButton(onPressed: (){

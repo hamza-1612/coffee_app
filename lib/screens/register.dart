@@ -12,8 +12,7 @@ class Register extends StatelessWidget {
         body: Container(
       width: double.infinity,
       height: double.infinity,
-      decoration: const BoxDecoration(
-          image: DecorationImage(image: AssetImage('assets/images/bg.png'), fit: BoxFit.cover)),
+      decoration: const BoxDecoration(color: Color(0xff543A20)),
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8),
         child: Column(

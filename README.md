@@ -2,6 +2,8 @@
 
 A coffee shop app UI built with Flutter, using a warm brown color palette and the Poppins font.
 
+![Home and Cart screens](screenshots/preview.png)
+
 ## Features
 
 - **Home screen**: greeting header, a discount banner, and a two-column grid of coffee products with an **Add to Cart** button on each card.
